@@ -1,0 +1,9 @@
+README.md
+offline_ads_detection_tools.py
+setup.py
+offline_ads_detection_tools.egg-info/PKG-INFO
+offline_ads_detection_tools.egg-info/SOURCES.txt
+offline_ads_detection_tools.egg-info/dependency_links.txt
+offline_ads_detection_tools.egg-info/entry_points.txt
+offline_ads_detection_tools.egg-info/requires.txt
+offline_ads_detection_tools.egg-info/top_level.txt
